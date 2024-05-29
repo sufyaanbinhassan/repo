@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+}
+
+.time{
+    font-weight: 700;
+    font-size: 70px;
+    
+}
